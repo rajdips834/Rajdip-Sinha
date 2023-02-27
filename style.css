@@ -43,7 +43,10 @@ body {
     opacity: 1;
     width: 100vw;
     height: 95vh;
+    right: -20px;
+    position: relative;
 }
+
 
 
 .hero-image {
@@ -55,8 +58,7 @@ body {
     filter: brightness(0.5);
     color: linen;
     top: 47px;
-    background-position: 1px, -40vh;
-    display: flow-root;
+    background-position: 0px, -40vh
 }
 
 
